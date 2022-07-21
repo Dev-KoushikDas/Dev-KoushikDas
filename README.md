@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Koushik Das</h1>
+<h1 align="center">Hi 👋, I'm Koushik Das </h1>
 <h3 align="center">FULL STACK WEB DEVELOPER || GAME DEVELOPER || COMPETITIVE PROGRAMMING</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
