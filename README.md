@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Koushik Das </h1>
 <h3 align="center">FULL STACK WEB DEVELOPER || GAME DEVELOPER || COMPETITIVE PROGRAMMING</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Tailwind CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
